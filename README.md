@@ -4,6 +4,15 @@
 
 In agriculture, early disease detection is critical for maintaining crop health and maximizing yields. This project employs Convolutional Neural Networks (CNN) to classify diseases in three key crops: Bell Pepper, Tomato, and Potato. By leveraging advanced machine learning techniques, the model aims to provide accurate and prompt identification of diseases, facilitating proactive measures for farmers.
 
+## Table of Contents
+
+- [Introduction](#Introduction)
+- [Features](#features)
+- [Dataset](#Dataset)
+- [Requirements](#Requirements)
+- [Example Output](#example-output)
+- [Conclusion](#conclusion)
+
 ## Features
 
 - **Multi-Crop Classification:**
