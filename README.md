@@ -75,6 +75,7 @@ Confidence: 100.0
 
 #### Model Prediction:
 Disease: Late Blight
+
 Confidence: 100.0
 
 
